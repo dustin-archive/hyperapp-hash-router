@@ -1,0 +1,22 @@
+{
+  "name": "hyperapp-hash-router",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Dustin Dowell <dustindowell22@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaaaley/hyperapp-hash-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whaaaley/hyperapp-hash-router/issues"
+  },
+  "homepage": "https://github.com/whaaaley/hyperapp-hash-router#readme",
+  "dependencies": {
+    "@whaaaley/query-string": "^0.2.0"
+  }
+}
